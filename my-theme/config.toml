@@ -1,0 +1,4 @@
+baseURL = "https://vijayboopathy.com"
+languageCode = "en-us"
+title = "Vijay's Blog"
+theme = "minimal"
