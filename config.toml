@@ -10,7 +10,7 @@ googleAnalytics = ""
     description = "Personal blog of Vijay"
     githubUsername = "#"
     accent = "red"
-    showBorder = true
+    showBorder = false
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
@@ -23,7 +23,7 @@ googleAnalytics = ""
     weight = 1
 
 [[menu.main]]
-    url = "/post/"
+    url = "/content/posts/"
     name = "Posts"
     weight = 2
 
