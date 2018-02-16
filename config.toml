@@ -8,14 +8,14 @@ googleAnalytics = ""
 [params]
     author = "Vijayboopathy"
     description = "Personal blog of Vijay"
-    githubUsername = "#"
+    githubUsername = "vijayboopathy"
     accent = "red"
     showBorder = false
     backgroundColor = "white"
     font = "Architects Daughter" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "yaml"]
 
 [[menu.main]]
     url = "/"
